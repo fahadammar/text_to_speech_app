@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Text To Speech</string>
+    <string name="demoAppTxt">DEMO APP</string>
+    <string name="hintTextToEnter">Please Enter Text</string>
+    <string name="listenBtnText">Please Press To Listen The Entered Text</string>
+    <string name="plzEnterTxt">Please Enter Text!!</string>
+    <string name="langNoSupport">The Language specified is not supported!</string>
 </resources>
